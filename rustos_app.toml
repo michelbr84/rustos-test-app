@@ -1,0 +1,6 @@
+id = "test-app"
+name = "Test App"
+version = "0.1.0"
+entry_kind = "wasi_wasm"
+entry_path = "app.wasm"
+description = "A real GitHub test app"
